@@ -2,3 +2,4 @@ ipywidgets
 requests
 pandas
 geopandas
+matplotlib
