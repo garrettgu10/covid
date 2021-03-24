@@ -1,0 +1,5 @@
+ipywidgets
+requests
+pandas
+conda-forge
+geopandas
